@@ -74,7 +74,7 @@ const CONFIG = {
   ],
   experiences: [],
   certifications: [],
-  educations: []
+  educations: [],
   publications: [],
   // Display articles from your medium or dev account. (Optional)
   blog: {
